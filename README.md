@@ -8,7 +8,7 @@
  - Images
  - Code Snippets
  - Resources
- - Collaborators
+ - Learning Points
 
  # Description
 
@@ -43,7 +43,7 @@ Email -> [ sese.ashrean@gmail.com ]
 Links to Resources:
 1. https://www.w3schools.com/jsref/met_document_queryselector.asp
 2. https://www.w3schools.com/js/js_const.asp
+3. https://www.w3schools.com/jsref/jsref_isnan.asp
+4. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
 
-# Collaborators
-My brother-in-law, Paul, who helped steer me in the right direction and who told me about using "const". I learned that
-const is when we declared a variable when the value cannot be changed.
+# Learning Points
