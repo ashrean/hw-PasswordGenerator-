@@ -47,3 +47,5 @@ Links to Resources:
 4. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
 
 # Learning Points
+ - One of the things I learned from this homework assignment is that indentation is important. I learned the hard way that if you dont ident and space out your code it can be confusing to read for you and the other developer.
+ - learned what isNaN mean and parseInt 
