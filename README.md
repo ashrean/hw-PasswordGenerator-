@@ -37,7 +37,27 @@ Email -> [ sese.ashrean@gmail.com ]
 
 
 # Code Snippets
+This section of code is important because it sets the requirements for the password to generate from the user's choices.
 
+ if (pwLength < 8 || pwLength > 128 (parseInt(pwLength))) {
+    alert("Enter a number between 8 and 128.");
+  }
+  else {
+    var LC = confirm("Would you like to use lowecase letters?");
+    if(LC) {
+      allChar += lowercase
+    };
+    var UC = confirm("Would you like to use uppercase?");
+    if(UC) {
+      allChar += uppercase
+    };
+    var specChar = confirm("Would you like to use speical characters?");
+    if (specChar) {
+      allChar += specialChar
+    };
+    var num = confirm("Would you like to use numbers?");
+    if (num) {
+      allChar += numbers
 
 # Resources
 Links to Resources:
@@ -49,4 +69,3 @@ Links to Resources:
 # Learning Points
  - One of the things I learned from this homework assignment is that indentation is important. I learned the hard way that if you dont ident and space out your code it can be confusing to read for you and the other developer.
  - learned what isNaN mean and parseInt
-
