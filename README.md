@@ -8,7 +8,7 @@
  - Images
  - Code Snippets
  - Resources
- - Learning Points
+ - Collaborators
 
  # Description
 
@@ -22,9 +22,9 @@ To use git clone there are a numbers of steps that you need to do.
  4. Once you have successfully cloned into your terminal type ls to make sure its there.
  5. Then you can type code . and it will open up VS Code for you with the information.
 
- Click on deployed site link -> [ ]
 
  # GitHub
+ Deployed sir link -> [ https://ashrean.github.io/hw-PasswordGenerator-/ ]
 
  URL -> [ https://github.com/ashrean/hw-PasswordGenerator- ]
 
@@ -40,6 +40,10 @@ Email -> [ sese.ashrean@gmail.com ]
 
 
 # Resources
+Links to Resources:
+1. https://www.w3schools.com/jsref/met_document_queryselector.asp
+2. https://www.w3schools.com/js/js_const.asp
 
-
-# Learning Points
+# Collaborators
+My brother-in-law, Paul, who helped steer me in the right direction and who told me about using "const". I learned that
+const is when we declared a variable when the value cannot be changed.
